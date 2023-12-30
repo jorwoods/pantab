@@ -33,3 +33,4 @@ py.extension_module(
 )
 
 py.install_sources('pyproject.toml', subdir: 'pantab')
+subdir('pantab')
